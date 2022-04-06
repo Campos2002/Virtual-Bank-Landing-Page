@@ -1,0 +1,25 @@
+#home{
+    background: #ffc107;
+    color: white;
+}
+
+p .btn{
+    width: 50px;
+    padding: 7px;
+    margin-right: 7px;
+}
+
+.caixa{
+    padding: 60px 0px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.graficos img{
+    border-radius: 7px;
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    width: 800px; */
+}
+
+footer p a{
+    margin: 5px 15px;
+}
